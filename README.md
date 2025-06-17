@@ -29,9 +29,14 @@ A simple and responsive **Recipe Finder App** built using **Bootstrap** and a pu
 ## 📦 Getting Started
 
 Follow these steps to run the project locally:
+view the template site https://deluxe-lamington-72dab1.netlify.app/
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Victrf/recipe-finder.git
 cd recipe-finder
+
+
+
+
