@@ -40,3 +40,46 @@ cd recipe-finder
 
 
 
+ Open index.html
+Just open the index.html file in your browser. No build process needed!
+
+🔐 If the API you're using requires an API key, insert your key in the JS file where specified.
+
+✨ Contributing
+I welcome improvements, fixes, or new features! Here’s how you can contribute:
+
+Fork the repo
+
+Create a new branch: git checkout -b feature/your-feature
+
+Commit your changes: git commit -m "Add your feature"
+
+Push to your branch: git push origin feature/your-feature
+
+Open a Pull Request
+
+Feel free to:
+
+Improve UI/UX
+
+Add advanced filters (e.g., meal type, cuisine, diet)
+
+Integrate more detailed nutrition info
+
+Add animations, loaders, or accessibility improvements
+
+💡 Suggestions
+Have an idea? Open an issue and let’s discuss.
+
+📄 License
+MIT License. Feel free to use and remix.
+
+🙌 Credits
+Thanks to the awesome open APIs like:
+
+TheMealDB
+
+Spoonacular
+
+⭐️ If you like it, star it!
+Fork it. Build it. Improve it. 🚀
