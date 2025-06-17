@@ -4,7 +4,7 @@ recipe finder
 
 A simple and responsive **Recipe Finder App** built using **Bootstrap** and a public **Recipes API**. Users can search for any dish or ingredient and get recipe suggestions in real-time.
 
-![recipe-finder-banner](preview-image-url-here) <!-- Replace with actual image or remove -->
+
 
 ## 🔍 Features
 
@@ -16,7 +16,7 @@ A simple and responsive **Recipe Finder App** built using **Bootstrap** and a pu
 
 ## 🚀 Live Demo
 
-[Check it out here](https://your-live-demo-url.com) <!-- Optional: Replace with your live demo link -->
+[Check it out here](view the template site https://deluxe-lamington-72dab1.netlify.app/) <!-- Optional: Replace with your live demo link -->
 
 ## 🛠️ Tech Stack
 
